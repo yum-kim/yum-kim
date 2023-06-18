@@ -40,11 +40,11 @@
 <br />
 <div align="center">
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yum-kim&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yum-kim)](https://github.com/yum-kim/github-readme-stats)
 
 </div>
 <div align="center">
-    
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyum-kim&count_bg=%23CA9DEF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://github.com/yum-kim)
 
 </div>
